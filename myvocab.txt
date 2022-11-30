@@ -59,7 +59,6 @@ imag
 ha
 rip
 band
-cb
 easili
 confus
 similar
@@ -75,6 +74,7 @@ best
 episod
 ufo
 space
+1999
 seri
 cours
 isnt
@@ -116,6 +116,7 @@ everi
 everyon
 gadget
 decad
+40
 year
 later
 devic
@@ -123,10 +124,12 @@ earth
 twin
 return
 gamera
+1969
 copi
 true
 stand
 season
+1
 ice
 condit
 gener
@@ -214,12 +217,15 @@ un
 extraordinari
 scene
 entir
+4
 minut
 footag
 achiev
 win
+3
 time
 thought
+10
 better
 job
 mayb
@@ -285,6 +291,7 @@ zero
 lol
 saw
 came
+9
 yr
 found
 veri
@@ -395,6 +402,7 @@ special
 effect
 lot
 think
+8
 sydney
 pollack
 firm
@@ -650,6 +658,7 @@ murphi
 geniu
 new
 millennium
+1983
 today
 parent
 teenag
@@ -729,6 +738,7 @@ beauti
 overr
 bad
 divis
+2000
 bravo
 sensual
 shot
@@ -757,7 +767,7 @@ fire
 stem
 atom
 experi
-s
+50
 spontan
 sam
 suffer
@@ -867,6 +877,7 @@ emerg
 horrif
 disbelief
 remind
+1977
 felt
 disturb
 forc
@@ -884,6 +895,7 @@ magnitud
 deserv
 emmi
 document
+911
 plan
 grab
 box
@@ -948,6 +960,7 @@ transvestit
 pick
 wall
 stuff
+310
 complic
 situat
 unusu
@@ -1017,10 +1030,11 @@ sundanc
 screen
 u
 theyll
-th
 chamber
 kungfu
 shaw
+70
+80
 equival
 spaghetti
 western
@@ -1050,6 +1064,7 @@ small
 villag
 unhappi
 wage
+20
 incom
 exploit
 skill
@@ -1127,6 +1142,7 @@ lorr
 deprav
 hitler
 rightbr
+210
 bin
 walmart
 plane
@@ -1134,7 +1150,6 @@ flew
 dure
 vietnam
 fli
-c
 pilot
 includ
 reserv
@@ -1296,7 +1311,6 @@ embrac
 structur
 relationship
 societi
-y
 furthermor
 fright
 precis
@@ -1317,6 +1331,7 @@ devil
 second
 flight
 hit
+300
 mile
 comfort
 zone
@@ -1325,6 +1340,7 @@ meteor
 dust
 storm
 monster
+200
 pound
 crave
 farm
@@ -1357,6 +1373,7 @@ team
 memor
 fun
 slightli
+710
 runofthemil
 brave
 opt
@@ -1364,7 +1381,6 @@ elicit
 disgust
 close
 gigant
-foot
 squeez
 swamp
 digest
@@ -1421,6 +1437,7 @@ singlehandedli
 awaken
 spoilersbr
 russia
+13th
 centuri
 relic
 invas
@@ -1525,6 +1542,7 @@ soap
 traitor
 sword
 kept
+1010
 despis
 secret
 gallon
@@ -1638,6 +1656,7 @@ nasti
 melodramat
 audienc
 expect
+30
 jean
 readili
 understand
@@ -1673,11 +1692,15 @@ perhap
 likabl
 forward
 legend
+007
+60
 outstand
 record
 april
+2007
 gameplay
 longer
+13
 boat
 pressur
 grandma
@@ -1694,6 +1717,7 @@ tree
 enjoy
 stay
 oh
+2001
 couldnt
 spoiler
 thesi
@@ -1759,6 +1783,7 @@ ahead
 correctli
 amateur
 instantli
+100
 ya
 logic
 crime
@@ -1954,16 +1979,19 @@ defeat
 kenneth
 reef
 album
+6
 uninterest
 addit
 stalk
 n
 cycl
 domin
+1980
 prank
 dorm
 drip
 steal
+1970
 antholog
 daphn
 recognis
@@ -1971,6 +1999,7 @@ initi
 ii
 gimmick
 cater
+7
 decenc
 clich
 veteran
@@ -1982,6 +2011,7 @@ serf
 purpos
 choreograph
 gladiat
+110
 judi
 davi
 australia
@@ -2039,6 +2069,7 @@ tragedi
 christ
 desir
 fresh
+1992
 gritti
 da
 loner
@@ -2068,7 +2099,6 @@ engag
 coher
 disagre
 devilish
-yearold
 wreck
 havoc
 ritter
@@ -2131,7 +2161,9 @@ british
 colin
 firth
 ruth
+1997
 hedg
+2002
 fidel
 dv
 steve
@@ -2174,6 +2206,7 @@ singl
 solitari
 predict
 telegraph
+45
 excruciatingli
 pen
 guru
@@ -2272,6 +2305,7 @@ hate
 grave
 jack
 frost
+2
 moviesbr
 relax
 christma
@@ -2511,6 +2545,7 @@ dark
 goof
 dig
 inbr
+810
 hadnt
 care
 gratuit
@@ -2526,6 +2561,7 @@ atroc
 european
 nazi
 eg
+s
 camp
 section
 greater
@@ -2542,10 +2578,12 @@ hackney
 rob
 channel
 holocaust
+2006
 genuin
 minu
 disrespect
 stock
+5
 tread
 novel
 dull
@@ -2598,6 +2636,7 @@ cassandra
 usa
 dam
 flood
+15
 whenev
 disappointedbr
 peggi
@@ -2612,6 +2651,7 @@ choreographi
 scream
 queen
 stephani
+35
 mm
 cg
 sarandon
@@ -2656,6 +2696,7 @@ rel
 valu
 affection
 cush
+foot
 overblown
 somebodi
 spare
@@ -2693,9 +2734,10 @@ russo
 shine
 bartend
 check
-mst
+3000
 shooter
 bank
+1993
 secur
 haze
 chick
@@ -2716,7 +2758,7 @@ variou
 cameo
 environ
 poster
-d
+3d
 materi
 skin
 fabric
@@ -2764,6 +2806,7 @@ goal
 privileg
 doubt
 cost
+1000
 passag
 resid
 permit
@@ -2844,6 +2887,7 @@ mustv
 nake
 gon
 na
+010
 incomprehens
 improvis
 random
@@ -2864,7 +2908,6 @@ invis
 pari
 loui
 bob
-hoskin
 jeff
 goldblum
 natasha
@@ -2951,6 +2994,7 @@ peak
 kiss
 mebr
 gore
+86
 cannib
 nativ
 tribe
@@ -3000,6 +3044,7 @@ deliveri
 conveni
 household
 item
+1949
 plumb
 prop
 themselvesbr
@@ -3016,7 +3061,7 @@ concern
 hail
 israel
 summar
-st
+21st
 kibbutz
 format
 dire
@@ -3030,6 +3075,7 @@ lock
 ticket
 entranc
 capitalist
+90
 metaphor
 thatbr
 nostalgia
@@ -3106,6 +3152,9 @@ issu
 lush
 dreami
 introduct
+1972
+26
+2003
 somewher
 gasp
 glad
@@ -3129,6 +3178,7 @@ bend
 enrich
 reliv
 footbal
+1982
 delus
 london
 inabl
@@ -3162,6 +3212,7 @@ piti
 dukaki
 carri
 sequelbr
+1984
 eighti
 dutch
 paul
@@ -3312,6 +3363,7 @@ deepest
 partnership
 retard
 rain
+1988
 blackandwhit
 bomb
 hiroshima
@@ -3323,6 +3375,8 @@ potent
 indel
 poignanc
 weather
+1966
+1981
 warm
 bridg
 palm
@@ -3432,6 +3486,7 @@ flawless
 enhanc
 expens
 viciou
+55
 tax
 spill
 sorri
@@ -3457,6 +3512,7 @@ foremost
 burst
 background
 alexandra
+11
 grown
 older
 jackson
@@ -3579,6 +3635,7 @@ hopeless
 luca
 boorman
 woke
+10br
 minutesbr
 rhyme
 nonexist
@@ -3600,6 +3657,7 @@ ghoulish
 jonathan
 wynorski
 iv
+910
 rehash
 damm
 kevin
@@ -3620,6 +3678,7 @@ desert
 birthday
 motherbr
 ceremoni
+1968
 grief
 curious
 mia
@@ -3633,6 +3692,7 @@ grace
 climax
 crawl
 precod
+1930
 immers
 sordid
 conniv
@@ -3678,6 +3738,7 @@ riot
 aykroyd
 unfairli
 march
+1989
 sting
 condemn
 raf
@@ -3695,6 +3756,7 @@ lessbr
 braveri
 jobbr
 slightest
+87
 franc
 tempest
 postwar
@@ -3723,6 +3785,7 @@ creatur
 lowrent
 bump
 reiser
+st
 widow
 gold
 goodman
@@ -3809,8 +3872,10 @@ quick
 stroke
 parabl
 effectbr
+1952
 illustr
 coin
+1960
 overshadow
 corpor
 greed
@@ -3863,6 +3928,7 @@ wong
 sterl
 erni
 perpetu
+1958
 sink
 exagger
 necessari
@@ -3886,7 +3952,6 @@ lava
 flow
 signal
 flip
-dw
 troma
 bronson
 referenc
@@ -3898,6 +3963,7 @@ topic
 born
 instanc
 virtual
+d
 nerd
 singer
 sammi
@@ -3935,6 +4001,7 @@ herebr
 ampl
 eleg
 sucker
+85
 chair
 bought
 discount
@@ -4019,6 +4086,7 @@ numer
 boom
 maze
 cheapli
+1st
 scarlett
 thisbr
 mitchel
@@ -4043,6 +4111,7 @@ modernday
 cooper
 laura
 dern
+1950
 amitabh
 govinda
 indian
@@ -4109,13 +4178,16 @@ inappropri
 reread
 longbr
 academi
+12
 soccer
 youngster
 tradit
 worri
 beforebr
+17
 curti
 melani
+c
 pleasant
 dreari
 inan
@@ -4161,6 +4233,7 @@ sensat
 j
 williamson
 badbr
+1939
 entri
 brooklyn
 busbi
@@ -4192,6 +4265,7 @@ everbr
 asid
 marina
 pastich
+20th
 milieu
 izzard
 chaplin
@@ -4317,11 +4391,13 @@ allen
 scorses
 capra
 scarfac
+22
 bloat
 godfath
 crude
 latino
 goodfella
+1932
 pacino
 montana
 corleon
@@ -4479,6 +4555,7 @@ peac
 basing
 laps
 passabl
+2008
 mall
 harass
 rid
@@ -4494,11 +4571,10 @@ maher
 ossession
 undergo
 lab
-nd
+2nd
 visconti
 fascist
 scan
-k
 anticip
 jonni
 programm
@@ -4531,8 +4607,10 @@ harvey
 keitel
 specialist
 fragil
+1945
 combat
 outtak
+1940
 unpredict
 underlin
 sacrific
@@ -4544,6 +4622,7 @@ wed
 againbr
 congo
 bigbudget
+1990
 watchabl
 probe
 africa
@@ -4572,6 +4651,7 @@ persuad
 asleep
 lengthi
 spray
+73
 portrait
 verbal
 intercours
@@ -4602,6 +4682,7 @@ nutshel
 sunday
 sub
 par
+101
 cruella
 glen
 fur
@@ -4708,6 +4789,7 @@ lump
 treacher
 beatti
 infatu
+510
 dispatch
 luckili
 crucial
@@ -4720,6 +4802,7 @@ tarzan
 happili
 ape
 dread
+1934
 uncut
 impli
 lion
@@ -4738,7 +4821,9 @@ snake
 bush
 enigmat
 meantim
+56
 elsewher
+76
 disjoint
 culmin
 blond
@@ -4757,10 +4842,13 @@ infidel
 starlet
 edgar
 g
+1955
 row
 booz
 prostitut
 stab
+1967
+39
 unabl
 flashlight
 persist
@@ -4800,7 +4888,6 @@ darth
 vader
 construct
 allianc
-skywalk
 leia
 frozen
 han
@@ -4820,9 +4907,12 @@ cohes
 proport
 mar
 bombast
+1976
+1978
 borrow
 vertigo
 lift
+1973
 fuel
 bicker
 rabid
@@ -4889,6 +4979,8 @@ trifl
 distinctli
 collag
 archiv
+8th
+1938
 loren
 neighbour
 gabriel
@@ -4901,8 +4993,10 @@ canadian
 descent
 contrari
 overli
+1933
 monstrou
 camil
+1936
 dunn
 joel
 christin
@@ -4956,7 +5050,6 @@ unrealist
 christina
 ricci
 breakthrough
-itch
 timberlak
 outbr
 captor
@@ -5140,9 +5233,11 @@ therebi
 confirm
 habit
 misfortun
+1987
 exam
 paper
 heck
+1965
 dev
 anand
 poet
@@ -5188,6 +5283,7 @@ yourselv
 boil
 googl
 januari
+19th
 flop
 bollywood
 chef
@@ -5336,10 +5432,12 @@ corbin
 bernsen
 nineti
 dispens
+1998
 sporad
 sadist
 foul
 presum
+1996
 dental
 gorehound
 toronto
@@ -5360,6 +5458,7 @@ chow
 reclaim
 interestbr
 dummi
+10000
 denni
 joann
 filmth
@@ -5454,6 +5553,7 @@ brown
 vogu
 vagu
 exceedingli
+18th
 maclean
 carlyl
 honour
@@ -5464,6 +5564,7 @@ suffic
 rope
 welsh
 therebr
+1995
 trainspot
 cue
 wan
@@ -5528,6 +5629,7 @@ intellectu
 komodo
 island
 cobra
+0
 pale
 coverag
 laurenc
@@ -5561,6 +5663,7 @@ vh
 bergman
 temporarili
 countess
+1900
 restrain
 aristocrat
 gypsi
@@ -5601,6 +5704,7 @@ francisco
 cindi
 circuit
 eve
+68
 condens
 rite
 epilogu
@@ -5629,7 +5733,6 @@ clip
 heartili
 romanian
 vulgar
-os
 merit
 sandler
 duval
@@ -5729,6 +5832,7 @@ fang
 missil
 precoci
 incarn
+yearold
 vocal
 usher
 privat
@@ -5743,6 +5847,7 @@ cruis
 ladder
 dug
 vincent
+1951
 painter
 nina
 foch
@@ -5755,6 +5860,7 @@ unev
 adulteri
 reconcili
 reunit
+2005
 conscious
 resolv
 straw
@@ -5844,8 +5950,11 @@ trademark
 salvag
 peckinpah
 villa
+88
+95
 rumor
 nimoy
+25
 franchis
 downright
 gloriou
@@ -5873,10 +5982,12 @@ slang
 gabe
 rooker
 tucker
+75
 offbr
 sooo
 ineptitud
 republ
+1944
 holli
 traffick
 paid
@@ -5919,6 +6030,7 @@ fizzl
 butt
 textbook
 epiphani
+1971
 brazilian
 access
 frenchman
@@ -5948,11 +6060,13 @@ duel
 pulp
 brood
 raft
+410
 forgiv
 franklin
 robertson
 intim
 titan
+14
 lama
 oj
 attribut
@@ -5971,6 +6085,7 @@ dim
 linger
 patienc
 roam
+1962
 danish
 seenbr
 technicolor
@@ -6006,6 +6121,7 @@ handheld
 withbr
 grasp
 overdramat
+18
 unrel
 adjust
 disarm
@@ -6239,6 +6355,7 @@ feebl
 vagina
 enterpris
 newcom
+2x
 ichi
 firefight
 sandra
@@ -6316,6 +6433,7 @@ conform
 hare
 marcu
 susi
+1800
 errol
 flynn
 carson
@@ -6336,6 +6454,7 @@ deftli
 transmit
 extravag
 pat
+1942
 smarmi
 laundri
 taint
@@ -6351,6 +6470,7 @@ neck
 baffl
 oversea
 warren
+1941
 temporari
 lanc
 apollo
@@ -6428,6 +6548,7 @@ explicit
 menbr
 assumpt
 giovanni
+14th
 excess
 inaccur
 foundat
@@ -6535,6 +6656,7 @@ welldeserv
 medic
 heal
 procedur
+1985
 untru
 liven
 splash
@@ -6563,8 +6685,11 @@ obstacl
 bachelor
 flock
 wannab
+999
 biographi
-rd
+1948
+4th
+3rd
 shorten
 nearbi
 believablebr
@@ -6601,6 +6726,7 @@ involvedbr
 agoni
 eaten
 haha
+500
 minion
 cynthia
 crimebr
@@ -6772,6 +6898,7 @@ gleason
 warbr
 minimum
 wwi
+1931
 periodbr
 squar
 unsuit
@@ -6790,7 +6917,6 @@ lodg
 dot
 disregard
 reagan
-ww
 lest
 thoughtprovok
 earnest
@@ -6922,9 +7048,11 @@ unlucki
 grunt
 webb
 puppi
+7th
 glamour
 philipp
 goth
+2004
 diamond
 lighten
 ira
@@ -7010,7 +7138,6 @@ eagl
 diebr
 brand
 examplebr
-pm
 forgiven
 excruci
 guis
@@ -7024,6 +7151,7 @@ throughbr
 effici
 scarier
 wendi
+237
 simultan
 nag
 hallway
@@ -7051,6 +7179,8 @@ tank
 crown
 branch
 theoret
+64
+1975
 accuraci
 homework
 finer
@@ -7064,6 +7194,7 @@ potato
 awhil
 snoop
 arnold
+ww2
 splendor
 grass
 picnic
@@ -7113,6 +7244,7 @@ scum
 gunfir
 stopoz
 harvest
+48
 hoover
 enforc
 communist
@@ -7137,10 +7269,12 @@ stupidbr
 ll
 holiday
 subgenr
+5th
 drool
 valuabl
 dori
 olsen
+1956
 que
 elf
 babbl
@@ -7158,6 +7292,7 @@ bout
 impuls
 enthusiasm
 europa
+1991
 cambodia
 disrupt
 thrust
@@ -7221,6 +7356,7 @@ net
 scoobi
 dobr
 poetic
+21
 kitten
 fruit
 superhuman
@@ -7326,6 +7462,7 @@ clad
 tech
 urg
 void
+99
 distributor
 steami
 suzi
@@ -7335,7 +7472,6 @@ india
 loot
 paramount
 evan
-sbr
 typecast
 tougher
 cavalri
@@ -7366,6 +7502,7 @@ penchant
 pumbaa
 slick
 bagdad
+cb
 getgo
 highway
 mustse
@@ -7431,6 +7568,7 @@ implic
 overus
 overdo
 ownbr
+16
 shrek
 successor
 taglin
@@ -7442,6 +7580,7 @@ trashi
 sappi
 byne
 shawn
+65
 passiv
 hysteria
 sim
@@ -7465,6 +7604,7 @@ bothersom
 elder
 prequel
 jenni
+1946
 miner
 crumbl
 motorcycl
@@ -7502,6 +7642,7 @@ rebelli
 interven
 inn
 suppress
+1954
 alec
 replay
 chapel
@@ -7513,8 +7654,10 @@ nicola
 roeg
 adher
 ang
+710br
 dove
 downtown
+250
 claymat
 mj
 funbr
@@ -7561,6 +7704,7 @@ theolog
 humbl
 townsend
 blob
+27
 ferri
 boyl
 col
@@ -7580,6 +7724,8 @@ sorcer
 innuendo
 cigarett
 possiblebr
+24
+k
 grenad
 perceiv
 drummer
@@ -7640,14 +7786,17 @@ houston
 applic
 veronica
 amnesia
-mstk
+mst3k
 jessi
 mega
 maya
 bell
+dw
+2009
 interspers
 veil
 mehta
+1947
 standpoint
 hindu
 fundamentalist
@@ -7776,6 +7925,7 @@ caretak
 corps
 plod
 uncompromis
+1979
 counselor
 zane
 winslet
@@ -7860,6 +8010,7 @@ northfork
 strikingli
 harlan
 imago
+pg13
 monitor
 powel
 brent
@@ -7869,6 +8020,7 @@ ascent
 slam
 bot
 videotap
+78
 persuas
 retel
 chock
@@ -7882,6 +8034,7 @@ barren
 shroud
 adulthood
 antwon
+1959
 ohio
 radar
 catalog
@@ -7916,6 +8069,7 @@ judith
 client
 nathaniel
 kahn
+1974
 properti
 architectur
 ouch
@@ -7928,6 +8082,7 @@ toll
 grim
 marcel
 errat
+400
 anguish
 brigitt
 loo
@@ -7955,6 +8110,7 @@ recaptur
 fore
 orbit
 glenda
+1994
 galor
 envi
 plea
@@ -7980,6 +8136,7 @@ hannah
 lui
 wartim
 fled
+1943
 unpreced
 unifi
 outlook
@@ -8040,7 +8197,6 @@ pepe
 sci
 fi
 needlessli
-nc
 gunfight
 magnolia
 abort
@@ -8058,6 +8214,7 @@ flavia
 tomato
 caesar
 stabil
+150
 otool
 manbr
 prolong
@@ -8084,6 +8241,7 @@ emotionless
 bio
 reev
 gloria
+19
 loi
 lex
 fortress
@@ -8098,6 +8256,7 @@ feud
 ugh
 nonam
 scout
+42nd
 repair
 shah
 getaway
@@ -8216,6 +8375,7 @@ playwright
 abstract
 giddi
 renam
+28
 coincid
 microphon
 stereo
@@ -8227,6 +8387,7 @@ dressler
 sunk
 entiti
 mansfield
+se7en
 knightli
 ewan
 mcgregor
@@ -8401,6 +8562,7 @@ chipmunk
 brittani
 click
 arabian
+23
 zhang
 kaufman
 selfconsci
@@ -8409,6 +8571,7 @@ jurass
 hutton
 demil
 robbi
+180
 indict
 vacuou
 farnsworth
@@ -8508,6 +8671,7 @@ sherman
 gerald
 showi
 bsg
+98
 ava
 gardner
 kazan
@@ -8519,6 +8683,7 @@ buffoon
 allstar
 laughbr
 stepmoth
+1986
 horrorthril
 britney
 griffin
@@ -8527,6 +8692,7 @@ yadda
 intervent
 murki
 breez
+34
 tramp
 bench
 scrambl
@@ -8549,8 +8715,10 @@ rififi
 jule
 dassin
 activist
+1964
 cesar
 melvil
+1957
 brute
 schindler
 problemat
@@ -8563,6 +8731,7 @@ golf
 uninvolv
 palpabl
 mack
+1920
 threesom
 reloc
 lash
@@ -8593,9 +8762,11 @@ pre
 strap
 darci
 columbo
+1963
 waitress
 butler
 pope
+1928
 henderson
 swanson
 viewerbr
@@ -8677,6 +8848,7 @@ kersey
 juon
 leftov
 boyc
+32
 snowbal
 ateam
 hannib
@@ -8742,6 +8914,7 @@ barbar
 montgomeri
 ideolog
 underestim
+35mm
 hermann
 insomniac
 dip
@@ -8854,6 +9027,7 @@ kruger
 ernst
 sissi
 der
+1953
 te
 obrien
 harbor
@@ -9024,11 +9198,13 @@ trainer
 alpha
 infuri
 competitor
+y
 salman
 istanbul
 mahmut
 scenic
 lana
+1935
 chamberlain
 dangl
 bart
@@ -9205,7 +9381,6 @@ abbi
 brosnan
 whit
 fondli
-mi
 criticis
 grappl
 monogram
@@ -9239,6 +9414,7 @@ drebin
 della
 thirteen
 comrad
+51
 hamil
 filipino
 guevara
@@ -9274,6 +9450,7 @@ harron
 gretchen
 timid
 superflu
+pm
 pullman
 moscow
 darkman
@@ -9316,12 +9493,14 @@ tolkien
 bgrade
 oregon
 blondel
+82
 crosbi
+5br
 adrian
 tito
 wwf
 shorti
-sg
+sg1
 wilkinson
 brewster
 mol
@@ -9405,6 +9584,7 @@ scandinavian
 hazard
 casa
 kimberli
+vh1
 mona
 neo
 lung
@@ -9439,6 +9619,7 @@ pazu
 kareena
 wail
 ooh
+6th
 nasa
 finland
 ajay
@@ -9498,6 +9679,7 @@ picturesqu
 wyatt
 academ
 machineri
+700
 sabretooth
 morrison
 afterlif
@@ -9508,7 +9690,6 @@ raquel
 messiah
 zodiac
 yeti
-crotch
 lundgren
 gustav
 erotic
@@ -9621,6 +9802,7 @@ crowhurst
 finn
 yang
 ale
+1937
 veronika
 beller
 juhi
