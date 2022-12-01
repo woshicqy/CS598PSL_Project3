@@ -1,21 +1,14 @@
 import numpy as np
 import pandas as pd
-import spacy
-from spacy.lang.en.stop_words import STOP_WORDS
-from spacy.lang.en import English
 from sklearn.feature_extraction.text import CountVectorizer,TfidfVectorizer
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
-from sklearn.base import TransformerMixin
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LogisticRegression
 from datetime import datetime
 from sklearn.metrics import roc_auc_score
-import warnings
-warnings.filterwarnings("ignore")
 
 def training_function():
     start = datetime.now()
-    start_time = start.strftime("%H:%M:%S")
     res = []
     with open("final_vocab.txt") as f:
         new_vocab = f.readlines()
@@ -67,7 +60,6 @@ def training_function():
     print(f'mean AUC:{mean_auc}')
 
     end = datetime.now()
-    end_time = end.strftime("%H:%M:%S")
     used_time = end-start
     print(f'Runding time:{used_time}')
 
